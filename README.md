@@ -1,6 +1,7 @@
 # c-program
 
-Hi, My name is Aditya Meshram,
+Hi, my name is Aditya Meshram,
+and i'm Student of GP Sakoli
 
-I wrote these C programs during my 2nd semester and these codes 
-helped me in my MSBTE exam.
+I wrote these C programs during my 2nd semester.  
+These programs helped me perform well in my MSBTE exam.
